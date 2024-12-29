@@ -1,46 +1,132 @@
 # Product-Recommendation-Case-Study-
-The company currently has stores in 6 states. We are looking to expand stores into additional
-states. We have determined the location and store type of the stores, but we have not
-determined what food/beverage offers should be at each location. Senior Leadership recently
-asked our team to complete a presentation giving recommendations on what offers should be
-in each store. The offers we are considering at these stores are Chicken, Adv GnG,(Pizza), Bean
-to Cup (Coffee), Swirl World (Frozen Yogurt), and DoorDash. They want the following to be
-considered when completing the analysis: Inside Sales, Chicken Sales, Adv GnG (Pizza) Sales,
-Bean to Cup Sales, Swirl World Sales, DoorDash Orders, Inside Guest Count, and Store Type.
-The locations are listed below, along with the Store Type:
-• Travel Center – St George, SC
-• 5.5k – Indianapolis, IN
-• EDO – Moss Point, MS
-• Travel Center – Cleveland, OH
-• 5.5k – Murphy, NC
-On the “Performance” tab you have all of the information needed to create an analysis on how
-stores in other states/locations have performed in the last year per offer based on their store
-type. All figures are currently Totals. With the current figures being Totals, you may need to
-create metrics to find averages that show how well as store is doing since they’ve been opened.
-We’d like you to create an Excel document (please show all of your work) as well as a
-PowerPoint or PowerBI Dashboard to present to Senior Leadership with the recommendations
-on what offers each new location should have. The PowerPoint/dashboard should include a
-summary page of your findings and then 2-3 slides of additional information.
-Things to consider:
-• In this role we don’t often get clear instructions. Senior Leaders lean on us to tell the
-story. Before you begin, we encourage you to go beyond the obvious and present your
-findings in a thoughtful way that can answer a plethora of questions that Senior Leaders
-would ask you while presenting the data.
-• Be mindful of anomalies that show up in the data. We don’t want to misrepresent the
-story being told.
-• Think outside the box. We might be looking to try new things in new areas. Make sure to
-take all data given to you into consideration.
-• Formulas are looked highly upon! Feel free to slice and dice the remodel performance
-tab all you want to help you get to your final result.
-• Don’t hesitate to email us if you have specific questions or data points you’d like to
-consider while doing this analysis.
-Definitions:
-• PSPW: per store per week. It’s simply a store's weekly average
+
+Welcome to the Product Recommendation Case Study repository. This project focuses on analyzing store performance data to provide senior leadership with strategic recommendations on food and beverage offerings for new store locations.
+
+Project Overview
+
+The company currently operates stores in six states and plans to expand into additional states. This case study aims to determine the optimal product offerings for new store locations, considering the following offerings:
+
+Chicken
+
+Adv GnG (Pizza)
+
+Bean to Cup (Coffee)
+
+Swirl World (Frozen Yogurt)
+
+DoorDash
+
+The analysis evaluates various metrics, such as inside sales, product-specific sales, guest counts, and store type performance, to ensure data-driven decisions. Recommendations will be presented using a detailed Excel analysis and an interactive PowerPoint or PowerBI dashboard.
+
+Data Sources and Metrics
+
+Data Provided:
+
+Performance Data: Information on how stores in other states/locations performed over the last year, with totals provided for sales and guest counts.
+
+Store Locations and Types: New store locations include:
+
+Travel Center: St. George, SC
+
+5.5k: Indianapolis, IN
+
+EDO: Moss Point, MS
+
+Travel Center: Cleveland, OH
+
+5.5k: Murphy, NC
+
+Metrics to Consider:
+
+Inside Sales
+
+Chicken Sales
+
+Adv GnG (Pizza) Sales
+
+Bean to Cup Sales
+
+Swirl World Sales
+
+DoorDash Orders
+
+Inside Guest Count
+
+Store Type
+
+Key Definitions:
+
+PSPW (Per Store Per Week): Weekly average performance metric per store.
+
 Store Types:
-• Travel Center: Larger store with front regular fuel stations and back truck fuel stations.
-• They are usually along travel routes. This means they see a lot of traffic from travelers
-• but may not be in populated areas.
-• EDO: Mid-size store with regular front fuel and an extended diesel offering in the back.
-• These stores are a cross between a 5.5k and a Travel Center.
-• 5.5K: A regular-sized store with only front regular fuel stations. These are normally,
-located in cities (populated areas) but can be located anywhere.
+
+Travel Center: Larger stores with regular and truck fuel stations along travel routes.
+
+EDO: Mid-size stores combining features of Travel Centers and 5.5k stores.
+
+5.5k: Regular-sized stores typically located in urban areas with front regular fuel stations.
+
+Deliverables
+
+Excel Analysis: Includes metrics calculations, trend analysis, and visualization.
+
+Presentation (PowerPoint/PowerBI):
+
+Summary slide highlighting key findings and recommendations.
+
+2-3 detailed slides with supporting data visualizations and insights.
+
+Approach
+
+Data Exploration:
+
+Analyze and clean the data to identify trends and anomalies.
+
+Calculate PSPW metrics and averages to assess performance.
+
+Insight Generation:
+
+Examine how store type influences performance for different offerings.
+
+Identify trends in sales and guest counts to inform recommendations.
+
+Visualization and Presentation:
+
+Develop a dashboard to visualize performance metrics effectively.
+
+Create a clear and concise story to communicate findings to senior leadership.
+
+Considerations
+
+Ensure the analysis goes beyond the obvious to address potential questions from senior leaders.
+
+Highlight anomalies and avoid misrepresenting data trends.
+
+Explore innovative approaches for potential new offerings.
+
+Document all calculations and formulas clearly in the Excel file.
+
+How to Use This Repository
+
+Clone the Repository:
+
+git clone https://github.com/your-username/Product-Recommendation-Case-Study.git
+
+Access the Files:
+
+Excel File: Contains all analysis and calculations.
+
+PowerPoint/PowerBI Dashboard: Summary and insights presentation.
+
+Run the Analysis:
+
+Open the Excel file to review the detailed analysis.
+
+Use the PowerPoint/PowerBI file for a high-level summary and visualizations.
+
+Contact
+
+For any questions or additional data requests, please contact the team at [your email address].
+
+We encourage feedback and collaboration to improve the analysis and recommendations. Thank you for reviewing this project!
+
